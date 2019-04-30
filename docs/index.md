@@ -6,3 +6,4 @@ An investigation of how many "L"s are in different phrases
 
 Why is this the most interesting challenge of our time.
 
+Read more about the [implementation](implementation.md).
